@@ -1,4 +1,10 @@
-### :hammer: Under Construction :warning:
+## Repositories
+I've organised some of my code into projects, templates, and infrastructure. They are all tagged and searchable.
+### Projects :hammer:
+
+- [imse](https://github.com/BenjaminDev/imse) An image search tool aimed at the civil engineering and surveying industry. Search your images using query images and selected regions of interest.
+- [zizu](https://github.com/zizu-research/zizu) A sports video analytics tool aimed at [speed climbing](). It processes a video of a speed climbing 'run' and  detects the climber(s) and their [keypoints](). It stitches the frames together to form a single image plane and then uses the known geometry of the wall to register this image with a real world model. The output is a `x,y` real world coordinate of each of the climbers keypoints. Using this position and time graphs can be derived and used to compare competiors and used as a training and performance monitoring tool. It is capable of processing panning footage captured by either a cellphone (instagram style clips) or a live stream system.  
+- [Airplan tracking]() This is a closed source project. It is a passive system that can detect and track multiple aircraft using a single camera. By using known landmarks in the scene the camera pose is estimated. Targets are tracked in a region of interest and due to a strong motion model (aircraft dynamics) the sysem can infer 3D world coordinates despite its single camera limitation. Published results can be seen [here](msc)  
 
 <!--
 **BenjaminDev/BenjaminDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
