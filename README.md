@@ -10,9 +10,9 @@ I've organised some of my code into projects, templates, and infrastructure. The
 
 ### Templates
 These templates were born out of doing the same setup too many times. Either for myself or for others.
-- [python-only] A template for pure python projects. It uses [poetry](), [pre-commit](), [docker]() for developement environment and [github actions] for CI/CD.
-- [cpp-python] A template for cmake based [cpp] projects that use [pybind11] to provide python bindings.
-- [cpp-only] A cmake template that uses [clang-formatter], [github actions] and builds both linux and windows binaries.
+- [python-only]() A template for pure python projects. It uses [poetry](), [pre-commit](), [docker]() for developement environment and [github actions] for CI/CD.
+- [cpp-python]() A template for cmake based [cpp] projects that use [pybind11] to provide python bindings.
+- [cpp-only]() A cmake template that uses [clang-formatter], [github actions] and builds both linux and windows binaries.
 
 ### Infrastructure
 I really dislike the [aws] console these repos make setting up a gpu instance for training an ML model super easy. Workflows for aws and colab are shown.
@@ -22,6 +22,8 @@ I really dislike the [aws] console these repos make setting up a gpu instance fo
 #### Note:
 If you are looking to hire in the areas of computer vision, machine learning or digital signal processing please don't hesitate to contact me via [linkedin]().
 
+### 🏆 Github Status
+![My Github Status](https://github-readme-stats.vercel.app/api?username=benjaminDev&show_icons=true&hide_border=true&count_private=true)
 <!--
 **BenjaminDev/BenjaminDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
