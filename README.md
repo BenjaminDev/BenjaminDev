@@ -23,13 +23,14 @@ I really dislike the [aws] console these repos make setting up a gpu instance fo
 #### Notes: :pen:
 If you are looking to hire in the areas of computer vision, machine learning or digital signal processing please don't hesitate to contact me via [linkedin]().
 
-### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=benjaminDev&show_icons=true&hide_border=true&count_private=true)
+
 <!--
 **BenjaminDev/BenjaminDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 for adding a gif
 Here are some ideas to get you started:
+### 🏆 Github Status
+![My Github Status](https://github-readme-stats.vercel.app/api?username=benjaminDev&show_icons=true&hide_border=true&count_private=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
