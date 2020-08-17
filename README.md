@@ -9,7 +9,6 @@ I've organised some of my code into projects, templates, and infrastructure. The
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Workflow**
 <div>
 
-<img src="https://github.com/BenjaminDev/BenjaminDev/blob/master/content/yt-001-0001-right_input.gif" height="300"/> 
  
 <img src="https://github.com/BenjaminDev/BenjaminDev/blob/master/content/yt-001-0001-right_pil.gif" height="300"/> 
 <img src="https://github.com/BenjaminDev/BenjaminDev/blob/master/content/grip_detections_on_base.png", height="300" />
@@ -46,6 +45,7 @@ for adding a gif
 Here are some ideas to get you started:
 ### 🏆 Github Status
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=benjaminDev&show_icons=true&hide_border=true&count_private=true)
+<img src="https://github.com/BenjaminDev/BenjaminDev/blob/master/content/yt-001-0001-right_input.gif" height="300"/> 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
