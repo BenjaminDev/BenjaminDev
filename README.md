@@ -4,8 +4,23 @@ I've organised some of my code into projects, templates, and infrastructure. The
 ### Projects :hammer:
 
 - [imse](https://github.com/BenjaminDev/imse) An image search tool aimed at the civil engineering and surveying industry. Search your images using query images and selected regions of interest.
-- [zizu](https://github.com/zizu-research/zizu) A sports video analytics tool aimed at [speed climbing](). It processes a video of a speed climbing 'run' and  detects the climber(s) and their [keypoints](). It stitches the frames together to form a single image plane and then uses the known geometry of the wall to register this image with a real world model. The output is a `x,y` real world coordinate of each of the climbers keypoints. Using this position and time graphs can be derived and used to compare competiors and used as a training and performance monitoring tool. It is capable of processing panning footage captured by either a cellphone (instagram style clips) or a live stream system.  
-- [Aircraft tracking]() This is a closed source project. It is a passive system that can detect and track multiple aircraft using a single camera. By using known landmarks in the scene the camera pose is estimated. Targets are tracked in a region of interest and due to a strong motion model (aircraft dynamics) the sysem can infer 3D world coordinates despite its single camera limitation. Published results can be seen [here](msc)  
+- [zizu](https://github.com/zizu-research/zizu) A sports video analytics tool aimed at [speed climbing](). It processes a video of a speed climbing 'run' and  detects the climber(s) and their [keypoints](). It stitches the frames together to form a single image plane and then uses the known geometry of the wall to register this image with a real world model. The output is a `x,y` real world coordinate of each of the climbers keypoints. Using this position and time graphs can be derived and used to compare competiors and used as a training and performance monitoring tool. It is capable of processing panning footage captured by either a cellphone (instagram style clips) or a live stream system. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Workflow**
+<div>
+
+<img src="https://github.com/BenjaminDev/BenjaminDev/blob/master/content/yt-001-0001-right_input.gif" height="300"/> 
+ 
+<img src="https://github.com/BenjaminDev/BenjaminDev/blob/master/content/yt-001-0001-right_pil.gif" height="300"/> 
+<img src="https://github.com/BenjaminDev/BenjaminDev/blob/master/content/grip_detections_on_base.png", height="300" />
+<img src="https://github.com/BenjaminDev/BenjaminDev/blob/master/content/keypoints_on_ref.png" height="300"/>
+</div>
+
+The system's output is the the exact position of the climbers keypoints as measured in the world coordinate system. These outputs can be used to analise the attempt, compare climbers and pick up on sections where the climber is loosing time. If you are keen to analise your climbing please drop me a message on  [linkedin](https://www.linkedin.com/in/benjamin-de-charmoy-b8b616164)
+
+
+- [Aircraft tracking]() This is a closed source project. It is a passive system that can detect and track multiple aircraft using a single camera. By using known landmarks in the scene the camera pose is estimated. Targets are tracked in a region of interest and due to a strong motion model (aircraft dynamics) the sysem can infer 3D world coordinates despite its single camera limitation. 
+Published results can be seen [here](https://www.dip.ee.uct.ac.za/publications/theses/MScBenjamin.pdf)  
 
 
 
@@ -21,7 +36,7 @@ I really dislike the [aws] console these repos make setting up a gpu instance fo
 - [minimal-aws-setup]() A terraformed setup that is useful for datascience and ML projects as well as a simple deployment usecase.
 
 #### Notes: :pen:
-If you are looking to hire in the areas of computer vision, machine learning or digital signal processing please don't hesitate to contact me via [linkedin]().
+If you are looking to hire in the areas of computer vision, machine learning or digital signal processing please don't hesitate to contact me via [linkedin](https://www.linkedin.com/in/benjamin-de-charmoy-b8b616164/).
 
 
 <!--
