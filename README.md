@@ -4,7 +4,7 @@ I've organised some of my code into projects, templates, and infrastructure. The
 ### Projects :hammer:
 
 - [imse](https://github.com/BenjaminDev/imse) An image search tool aimed at the civil engineering and surveying industry. Search your images using query images and selected regions of interest.
-- [zizu](https://github.com/zizu-research/zizu) A sports video analytics tool aimed at [speed climbing](). It processes a video of a speed climbing 'run' and  detects the climber(s) and their [keypoints](). It stitches the frames together to form a single image plane and then uses the known geometry of the wall to register this image with a real world model. The output is a `x,y` real world coordinate of each of the climbers keypoints. Using this position and time graphs can be derived and used to compare competiors and used as a training and performance monitoring tool. It is capable of processing panning footage captured by either a cellphone (instagram style clips) or a live stream system. 
+- [zizu]() A sports video analytics tool aimed at [speed climbing](). It processes a video of a speed climbing 'run' and  detects the climber(s) and their [keypoints](). It stitches the frames together to form a single image plane and then uses the known geometry of the wall to register this image with a real world model. The output is a `x,y` real world coordinate of each of the climbers keypoints. Using this position and time graphs can be derived and used to compare competiors and used as a training and performance monitoring tool. It is capable of processing panning footage captured by either a cellphone (instagram style clips) or a live stream system. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Workflow**
 <div>
