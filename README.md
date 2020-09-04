@@ -13,7 +13,7 @@ I've organised some of my code into projects, templates, and infrastructure. The
 <img src="https://github.com/BenjaminDev/BenjaminDev/blob/master/content/keypoints_on_ref.png" height="300"/>
 </div>
 
-The system's output is the the exact position of the climbers keypoints as measured in the world coordinate system. These outputs can be used to analise the attempt, compare climbers and pick up on sections where the climber is loosing time. If you are keen to analise your climbing please drop me a message on  [linkedin](https://www.linkedin.com/in/benjamin-de-charmoy-b8b616164)
+The system's [output](https://www.youtube.com/watch?v=AYafYE81nBI&list=PL0CXgB_3GSNcd--pru-aDsTOV2ZO1FYBL) is the the exact position of the climbers keypoints as measured in the world coordinate system. These outputs can be used to analise the attempt, compare climbers and pick up on sections where the climber is loosing time. If you are keen to analise your climbing please drop me a message on  [linkedin](https://www.linkedin.com/in/benjamin-de-charmoy-b8b616164)
 
 
 - [Aircraft tracking]() This is a closed source project. It is a passive system that can detect and track multiple aircraft using a single camera. By using known landmarks in the scene the camera pose is estimated. Targets are tracked in a region of interest and due to a strong motion model (aircraft dynamics) the sysem can infer 3D world coordinates despite its single camera limitation. 
