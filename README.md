@@ -21,13 +21,13 @@ Published results can be seen [here](https://www.dip.ee.uct.ac.za/publications/t
 
 
 
-### Templates :copy:
+### Templates :paperclip:
 These templates were born out of doing the same setup too many times. Either for myself or for others.
-- [python-only]() A template for pure python projects. It uses [poetry](), [pre-commit](), [docker]() for developement environment and [github actions] for CI/CD.
+- [python-only]() A template for pure python projects. It uses [poetry](), [pre-commit](), [docker]() for developement environment and [github actions]() for CI/CD.
 - [cpp-python]() A template for cmake based [cpp] projects that use [pybind11] to provide python bindings.
 - [cpp-only]() A cmake template that uses [clang-formatter], [github actions] and builds both linux and windows binaries.
 
-### Infrastructure :building:
+### Infrastructure :factory:
 I really dislike the [aws] console these repos make setting up a gpu instance for training an ML model super easy. Workflows for aws and colab are shown.
 - [gpu-ami]() A Packer based ami for swift and cheap ami stroage.
 - [minimal-aws-setup]() A terraformed setup that is useful for datascience and ML projects as well as a simple deployment usecase.
