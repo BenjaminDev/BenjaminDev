@@ -9,6 +9,8 @@ I've organised some of my code into projects, templates, and infrastructure. The
 <img src="https://github.com/BenjaminDev/BenjaminDev/blob/master/content/imse_civil.png" height="300"/>
 </div>
 
+
+&nbsp;&nbsp;
 - [zizu]() A sports video analytics tool aimed at [speed climbing](https://www.youtube.com/watch?v=AYafYE81nBI&list=PL0CXgB_3GSNcd--pru-aDsTOV2ZO1FYBL). It processes a video of a speed climbing 'run' and  detects the climber(s) and their [keypoints](). It stitches the frames together to form a single image plane and then uses the known geometry of the wall to register this image with a real world model. The output is a `x,y` real world coordinate of each of the climbers keypoints. Using this position and time graphs can be derived and used to compare competiors and used as a training and performance monitoring tool. It is capable of processing panning footage captured by either a cellphone (instagram style clips) or a live stream system. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Workflow**
